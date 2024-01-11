@@ -9,7 +9,7 @@ namespace CPRG_211_F_Lab_0
 {
     internal class Program
     {
-        private static string _filePath = "E:\\CPRG 211\\Unit 1\\Labs\\Lab 0\\Output\\numbers.txt";
+        private readonly static string _filePath = "E:\\CPRG 211\\Unit 1\\Labs\\Lab 0\\Output\\numbers.txt";
 
         static void Main(string[] args)
         {
